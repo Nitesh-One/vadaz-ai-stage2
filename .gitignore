@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/train.jsonl
+data/test.jsonl
+data/generated_chats.jsonl
+data/quality_test_results.json
